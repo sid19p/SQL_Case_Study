@@ -1,12 +1,12 @@
 # SQL_Case_Study
 
-##Health Insurance Claim SQL Case Study
+1.Health Insurance Claim SQL Case Study
 
-###Overview
+Overview
 
 Welcome to the Health Insurance Claim SQL Case Study repository! This project is designed to demonstrate advanced SQL skills through the analysis of health insurance claims data. The case study includes a series of tasks that involve data extraction, transformation, and complex analysis using SQL.
 
-###Objectives
+Objectives
 
 Data Extraction and Transformation: Develop SQL queries to extract and transform data from the health insurance claims dataset.
 Data Analysis: Perform various analytical tasks to gain insights from the dataset.
